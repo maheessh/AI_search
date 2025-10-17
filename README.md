@@ -33,6 +33,8 @@ Make sure the following are installed on your system:
 
 ```bash
 cd path/to/ai-search-demo
+```
+
 🔹 Create a Virtual Environment:
 bash
 Copy code
