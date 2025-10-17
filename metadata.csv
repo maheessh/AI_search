@@ -1,0 +1,11 @@
+id,title,category,metal,gemstone,style,image_path
+1,Solitaire Diamond Ring,ring,yellow gold,diamond,solitaire,static/images/solitaire_diamond.jpg
+2,Sapphire Pendant Necklace,necklace,silver,sapphire,pendant,static/images/necklace_1.jpg
+3,Gold Hoop Earrings,earrings,yellow gold,none,hoop,static/images/earrings_1.jpg
+4,Ruby Stud Earrings,earrings,yellow gold,ruby,stud,static/images/earrings_2.jpg
+5,Emerald Tennis Bracelet,bracelet,silver,emerald,tennis,static/images/bracelet_1.jpg
+6,Vintage Pearl Necklace,necklace,yellow gold,pearl,vintage,static/images/necklace_2.jpg
+7,Diamond Cluster Ring,ring,white gold,diamond,cluster,static/images/ring_2.jpg
+8,Rose Gold Bangle,bracelet,rose gold,none,bangle,static/images/bracelet_2.jpg
+9,Aquamarine Drop Earrings,earrings,silver,aquamarine,drop,static/images/earrings_3.jpg
+10,Three-Stone Engagement Ring,ring,platinum,diamond,engagement,static/images/ring_3.jpg

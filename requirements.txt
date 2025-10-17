@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+Pillow
+tqdm
+numpy
+torch
+torchvision
+timm
+faiss-cpu

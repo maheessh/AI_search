@@ -1,0 +1,72 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual Environment ----
+venv/
+ENV/
+env/
+.venv/
+
+# ---- IDE & Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs & Temp ----
+*.log
+*.tmp
+*.bak
+*.old
+
+# ---- Environment Variables ----
+*.env
+.env.*
+config.json
+
+# ---- Data / Cache / Models ----
+.cache/
+.huggingface/
+E:/huggingface_cache/
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.weights
+*.safetensors
+
+# ---- Project Outputs ----
+output/
+outputs/
+runs/
+logs/
+checkpoints/
+__results__/
+data/
+datasets/
+
+# ---- Build Artifacts ----
+build/
+dist/
+*.egg-info/
+*.spec
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- System ----
+*.sqlite3
+*.db
+*.bak
+
+# ---- Custom: Indexing or Image Cache ----
+indexed_images/
+temp_images/
+image_cache/
